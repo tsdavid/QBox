@@ -1,4 +1,4 @@
-package com.dk.algorithm.greedy.programmers;
+package com.dk.datastructure.array;
 
 import java.util.Arrays;
 
