@@ -11,6 +11,7 @@ public class selection_sort {
             int least = i;
             for(int j = i+1; j < arr.length; j++) {
 
+                // Check minimum value.
                 if(arr[least] > arr[j]){
                     // Update least.
                     least = j;
@@ -26,6 +27,7 @@ public class selection_sort {
         }
         return arr;
     }
+
 
     void printStep(int[] arr, int val) {
         System.out.println("     Step  " + val + " = " + Arrays.toString(arr));
