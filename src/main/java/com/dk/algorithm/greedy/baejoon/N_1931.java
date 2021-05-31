@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * Probelm : https://www.acmicpc.net/problem/1931
+ * Problem : https://www.acmicpc.net/problem/1931
  * Answer sheet  : https://st-lab.tistory.com/145
  */
 public class N_1931 {

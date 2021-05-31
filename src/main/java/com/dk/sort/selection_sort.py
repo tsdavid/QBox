@@ -17,6 +17,8 @@ def printStep(arr, val):
     print(arr)
 
 
+
+
 if __name__ == '__main__':
     # Test Code.
     a = [1, 3, 5]
