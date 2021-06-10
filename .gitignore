@@ -986,3 +986,9 @@ cython_debug/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+
+
+# selenium test source
+*.log
+/src/main/java/com/dk/SeleniumTest/
+/src/main/java/com/dk/SeleniumTest/src

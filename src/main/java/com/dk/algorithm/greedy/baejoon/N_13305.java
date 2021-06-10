@@ -12,6 +12,7 @@ public class N_13305 {
 
 
         // first city
+
         // if prices[0] is not cheapest  != buy all oil!
         // buy minimum oil enough to go next city
 
