@@ -28,7 +28,7 @@ public class CyclicRotation {
             A = tmpArr;
         }
         HashMap<Integer,Integer> map = new HashMap<>();
-        for(String k : map.keySet()){
+        for(Integer k : map.keySet()){
 
         }
         return A;
